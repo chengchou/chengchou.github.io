@@ -17,6 +17,8 @@ Econometrics, Dynamic Discrete Choice Models, Nonlinear Panel Data Models
 
 __Working Papers__
 
+* [Identification and Estimation of Dynamic Discrete Choice Demand Models with Market Level Data, August 2018](pdf/dynamicDemand.pdf), with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html) and [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
+
 * [Three-Step CCP Estimation of Dynamic Programming Discrete Choice Models with Large State Space, with Geert Ridder, March 30, 2017](pdf/threeStepCCP.pdf)
 
 * [Identification and Linear Estimation of General Dynamic Programming Discrete Choice Models, Oct 14, 2016](pdf/DPDC_July.pdf)

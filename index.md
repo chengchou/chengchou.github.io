@@ -3,14 +3,6 @@ I am a Lecturer (Assistant Professor) of economics in the School of Business at 
 _Research interests_:
 Econometrics, Dynamic Discrete Choice Models, Quantitative Marketing
 
-## Contacts
-
-_Phone_: +44 (0) 116 373 6288
-
-_Email_: cchou@le.ac.uk
-
-_Address_: Mallard House 1.01, University of Leicester, Leicester, UK, LE1 7RH
-
 ## Working Papers
 
 - [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply, Jan 2019](pdf/timeUse.pdf), with [Ruoyao Shi](https://ruoyaoshi.github.io).

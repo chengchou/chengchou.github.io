@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+I am a Lecturer (Assistant Professor) of economics in the School of Business at the [University of Leicester](https://le.ac.uk/school-of-business), England.
 
-You can use the [editor on GitHub](https://github.com/chengchou/chengchou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+_Research interests_:
+Econometrics, Dynamic Discrete Choice Models, Quantitative Marketing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contacts
 
-### Markdown
+_Phone_: +44 (0) 116 373 6288
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Email_: cchou@le.ac.uk
 
-```markdown
-Syntax highlighted code block
+_Address_: Mallard House 1.01, University of Leicester, Leicester, UK, LE1 7RH
 
-# Header 1
-## Header 2
-### Header 3
+## Working Papers
 
-- Bulleted
-- List
+- [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply, Jan 2019](pdf/timeUse.pdf), with [Ruoyao Shi](https://ruoyaoshi.github.io).
 
-1. Numbered
-2. List
+- [Identification and Estimation of Dynamic Discrete Choice Demand Models with Market Level Data, R&R 2nd Round](pdf/CDKEstimator.pdf), with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html) and [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
 
-**Bold** and _Italic_ and `Code` text
+- [Three-Step CCP Estimation of Dynamic Programming Discrete Choice Models with Large State Space, with Geert Ridder, 2017](pdf/threeStepCCP.pdf)
 
-[Link](url) and ![Image](src)
-```
+- [Identification and Linear Estimation of General Dynamic Programming Discrete Choice Models, Oct 14, 2016](pdf/DPDC_July.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chengchou/chengchou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publications
+- “Market Timing: Recent Development and a New Test”, Economics Letters, 2011, 111, 105–109. (with Chia-Shang J. Chu)
+- “Testing Independence of Two Autocorrelated Binary Time Series”, Statistics and Probability Letters, 2010, 80, 69-75. (with Chia-Shang J. Chu)

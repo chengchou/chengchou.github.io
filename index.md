@@ -7,7 +7,7 @@ Econometrics, Dynamic Discrete Choice Models, Quantitative Marketing
 
 - [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply, Jan 2019](pdf/timeUse.pdf), with [Ruoyao Shi](https://ruoyaoshi.github.io).
 
-- [Identification and Estimation of Dynamic Discrete Choice Demand Models with Market Level Data, R&R 2nd Round](pdf/CDKEstimator.pdf), with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html) and [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
+- [Linear Estimation of Aggregate Dynamic Discrete Demand for Durable Goods without the Curse of Dimensionality](https://www.andrew.cmu.edu/user/derdenge/CDKEstimator.pdf), R&R 2nd Round, with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html) and [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/). [Online Appendix](https://www.andrew.cmu.edu/user/derdenge/CDKEstimatorApdx.pdf)
 
 - [Three-Step CCP Estimation of Dynamic Programming Discrete Choice Models with Large State Space, with Geert Ridder, 2017](pdf/threeStepCCP.pdf)
 

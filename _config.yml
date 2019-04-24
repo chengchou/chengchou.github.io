@@ -4,3 +4,5 @@ description: "Cheng Chou\n Email: cchou@le.ac.uk\n Phone: +44 (0) 116 373 6288\n
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag

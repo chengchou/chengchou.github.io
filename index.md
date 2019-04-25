@@ -1,7 +1,7 @@
 I am a Lecturer (Assistant Professor) of economics in the School of Business at the [University of Leicester](https://le.ac.uk/school-of-business), England.
 
 _Research interests_:
-Econometrics, Dynamic Discrete Choice Models, Quantitative Marketing
+Applied Econometrics, Quantitative Marketing
 
 ## Working Papers
 

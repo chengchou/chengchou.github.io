@@ -5,7 +5,7 @@ Applied Econometrics, Quantitative Marketing
 
 ## Working Papers
 
-- [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply, Jan 2019](pdf/timeUse.pdf), with [Ruoyao Shi](https://ruoyaoshi.github.io).
+- [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply](pdf/timeUse.pdf), May 2019 with [Ruoyao Shi](https://ruoyaoshi.github.io). [Online Appendix](pdf/timeUseApx.pdf)
 
 - [Three-Step CCP Estimation of Dynamic Programming Discrete Choice Models with Large State Space, with Geert Ridder, 2017](pdf/threeStepCCP.pdf)
 

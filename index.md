@@ -3,6 +3,8 @@ I am a Lecturer (Assistant Professor) of economics in the School of Business at 
 _Research interests_:
 Applied Econometrics, Quantitative Marketing
 
+[CV](pdf/ChengCHOU_CV.pdf)
+
 ## Working Papers
 
 - [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply](pdf/timeUse.pdf), May 2019 with [Ruoyao Shi](https://ruoyaoshi.github.io). [Online Appendix](pdf/timeUseApx.pdf)

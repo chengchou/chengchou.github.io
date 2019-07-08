@@ -1,7 +1,7 @@
 I am a Lecturer (Assistant Professor) of economics in the School of Business at the [University of Leicester](https://le.ac.uk/school-of-business), England.
 
 _Research interests_:
-Applied Econometrics, Quantitative Marketing
+Quantitative marketing (with focus on analyzing consumer choice and firm strategies in high-tech markets), applied econometrics
 
 [CV](pdf/ChengCHOU_CV.pdf)
 

@@ -5,6 +5,8 @@ Quantitative marketing (with focus on analyzing consumer choice and firm strateg
 
 [CV](pdf/ChengCHOU_CV.pdf)
 
+_Contact_: +44 750-698-6849 or +44 0750-698-6849
+
 ## Working Papers
 - [Can Willingness to Pay be Identified without Price Variation? What Big Data on Usage Tracking Can (and Cannot) Tell Us](pdf/WTPSubscription.pdf), June 2019 with [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
 

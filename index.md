@@ -8,7 +8,7 @@ Quantitative marketing (with focus on analyzing consumer choice and firm strateg
 _Contact_: +44 750-698-6849 (call from outside the UK) or +44 0750-698-6849 (call from a UK number or Skype)
 
 ## Working Papers
-- Can Willingness to Pay be Identified without Price Variation? What Big Data on Usage Tracking Can (and Cannot) Tell Us, June 2019 with [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
+- [Can Willingness to Pay be Identified without Price Variation? What Big Data on Usage Tracking Can (and Cannot) Tell Us](pdf/WTPSubscription.pdf), June 2019 with [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
 
 - [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply](pdf/timeUse.pdf), May 2019 with [Ruoyao Shi](https://ruoyaoshi.github.io). [Online Appendix](pdf/timeUseApx.pdf)
 

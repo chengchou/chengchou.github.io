@@ -8,7 +8,7 @@ Quantitative marketing (with focus on analyzing consumer choice and firm strateg
 ## Working Papers
 - [Can Willingness to Pay be Identified without Price Variation? What Big Data on Usage Tracking Can (and Cannot) Tell Us](pdf/WTPSubscription.pdf), June 2019 with [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
 
-- [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply](pdf/timeUse.pdf), May 2019 with [Ruoyao Shi](https://ruoyaoshi.github.io). [Online Appendix](pdf/timeUseApx.pdf) Revision & Resubmission.
+- [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply](pdf/timeUse.pdf), May 2019 with [Ruoyao Shi](https://ruoyaoshi.github.io). Revision & Resubmission.
 
 - [Three-Step CCP Estimation of Dynamic Programming Discrete Choice Models with Large State Space, with Geert Ridder, 2017](pdf/threeStepCCP.pdf)
 

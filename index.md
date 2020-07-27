@@ -18,8 +18,3 @@ Quantitative marketing (with focus on analyzing consumer choice and firm strateg
 - ["Linear Estimation of Aggregate Dynamic Discrete Demand for Durable Goods Overcoming the Curse of Dimensionality"](https://www.andrew.cmu.edu/user/derdenge/CDKEstimator.pdf), _Marketing Science_, 2019, 38, 888-909, with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html) and [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/). [Online Appendix](https://www.andrew.cmu.edu/user/derdenge/CDKEstimatorApdx.pdf)
 - “Market Timing: Recent Development and a New Test”, _Economics Letters_, 2011, 111, 105–109. (with Chia-Shang J. Chu)
 - “Testing Independence of Two Autocorrelated Binary Time Series”, Statistics and Probability Letters, 2010, 80, 69-75. (with Chia-Shang J. Chu)
-
-## Work in Progress
-- What Does the Discount Factor Say About Consumer Beliefs? Testing Consumer Beliefs in Dynamic Discrete Choice Models with Aggregate Data, with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html), Manuscript coming soon.
-- Dynamically Optimal Product Design for Freemium Service: What Online Game Can (and Cannot) Tell Us, with [Hai Che](https://profiles.ucr.edu/app/home/profile/chehai)
-- Matching between College Applicants and Universities in the UK: Nontransferable Matching with Partially Identified Preference, with [Jesse Matheson](https://www.sheffield.ac.uk/economics/people/jesse-matheson/index)

@@ -6,6 +6,8 @@ Quantitative marketing (with focus on analyzing consumer choice and firm strateg
 [CV](pdf/ChengCHOU_CV.pdf)
 
 ## Working Papers
+- Discrete Choice Demand Estimation Leveraging Overlapping Groups of Consumers, December 2020 with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html)
+
 - [Can Willingness to Pay be Identified without Price Variation? What Big Data on Usage Tracking Can (and Cannot) Tell Us](pdf/WTPSubscription.pdf), June 2019 with [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
 
 - [What Time Use Surveys Can (And Cannot) Tell Us about Labor Supply](pdf/timeUse.pdf), May 2019 with [Ruoyao Shi](https://ruoyaoshi.github.io). Revision & Resubmission.

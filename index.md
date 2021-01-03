@@ -6,6 +6,8 @@ Quantitative marketing (with focus on analyzing consumer choice and firm strateg
 [CV](pdf/ChengCHOU_CV.pdf)
 
 ## Working Papers
+- What is the Value of Free Players and Free Goodies in Online Video Games? An Empirical Study of Microtransactions, January, 2021 with Hai Che and Peng Liu.
+
 - Discrete Choice Demand Estimation Leveraging Overlapping Groups of Consumers, December 2020 with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html)
 
 - [Can Willingness to Pay be Identified without Price Variation? What Big Data on Usage Tracking Can (and Cannot) Tell Us](pdf/WTPSubscription.pdf), June 2019 with [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).

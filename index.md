@@ -10,7 +10,7 @@ Quantitative marketing (with focus on analyzing consumer choice and firm strateg
 
 - [Discrete Choice Demand Estimation Leveraging Overlapping Groups of Consumers](http://www.andrew.cmu.edu/user/derdenge/DynamicDiscreteChoice_Groups.pdf), December 2020 with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html)
 
-- [Can Willingness to Pay be Identified without Price Variation? What Big Data on Usage Tracking Can (and Cannot) Tell Us], June 2019 with [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
+- Can Willingness to Pay be Identified without Price Variation? What Big Data on Usage Tracking Can (and Cannot) Tell Us, with [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
 
 - [Three-Step CCP Estimation of Dynamic Programming Discrete Choice Models with Large State Space, with Geert Ridder, 2017](pdf/threeStepCCP.pdf)
 

@@ -6,9 +6,9 @@ Quantitative marketing and applied econometrics
 [CV](pdf/ChengCHOU_CV.pdf)
 
 ## Working Papers
-- What is the Value of Free Players and Free Goodies in Online Video Games? An Empirical Study of Microtransactions, January, 2021 with Hai Che and Peng Liu.
+- The Power of Free: Consumer Choice in Freemium Market, 2021 with Hai Che and Peng Liu.
 
-- [Discrete Choice Demand Estimation Leveraging Overlapping Groups of Consumers: Estimating the Informative and Prestige Effects of Celebrity Endorsements](http://www.andrew.cmu.edu/user/derdenge/DynamicDiscreteChoice_Groups.pdf), with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html)
+- [Discrete Choice Demand Estimation Leveraging Overlapping Groups of Consumers](http://www.andrew.cmu.edu/user/derdenge/DynamicDiscreteChoice_Groups.pdf), with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html)
 
 - Can Willingness to Pay be Identified without Price Variation? What Big Data on Usage Tracking Can (and Cannot) Tell Us, with [Vineet Kumar](http://faculty.som.yale.edu/vineetkumar/).
 

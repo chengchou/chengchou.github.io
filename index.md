@@ -7,7 +7,7 @@ Quantitative marketing and applied econometrics
 
 ## Working Papers
 
-- [Discrete Choice Demand Estimation Leveraging Overlapping Groups of Consumers](http://www.andrew.cmu.edu/user/derdenge/DynamicDiscreteChoice_Groups.pdf), with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html)
+- [Dynamic Discrete Choice Demand Estimation Leveraging Overlapping Groups of Consumers](http://www.andrew.cmu.edu/user/derdenge/DynamicDiscreteChoice_Groups.pdf), with [Tim Derdenger](http://www.andrew.cmu.edu/user/derdenge/Research.html)
 - [Can Willingness to Pay be Identified without Price Variation? What Usage Tracking Data Can (and Cannot) Tell Us](https://vineetkumars.github.io/Papers/WTP_Identification.pdf), with Vineet Kumar.
 
 ## Publications

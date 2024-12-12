@@ -1,0 +1,8 @@
+title: Welcome to Cheng's humble site
+# logo: img/photo2018.jpg
+description: Cheng Chou Homepage
+show_downloads: false
+google_analytics: UA-216130358-1
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
